@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] User can view a **splash screen** and **logo** on home screen
+* [X] Logo included in **top bar** of every screen
 
 ## Video Walkthrough
 
